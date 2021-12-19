@@ -1,7 +1,7 @@
 //SHUFFLING A DECK OF 52 CARDS 
 //Code in C++
+//THE CODE GIVES SHUFFLED NUMBERS EVERYTIME WE RUN THE CODE
 
-# THE CODE GIVES SHUFFLED NUMBERS EVERYTIME WE RUN THE CODE
 #include <iostream>
 using namespace std;
 void shuffle(int card[], int n)
